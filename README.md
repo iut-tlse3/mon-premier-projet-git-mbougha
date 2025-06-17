@@ -1,7 +1,7 @@
 # Mon premier projet Git
 
-### LAST NAME : DOE
-### First name : John
+### LAST NAME : Boughanem
+### First name : Moh
 ### TP group :
 - [ ] a
 - [ ] b
